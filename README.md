@@ -34,4 +34,22 @@ A user can download photos and edit an album for a location. Users can also see 
 * Flicker
 
 # Build and run
-For run the app, a user should go to the Clone or Download file. By clicking that, it will give the option for downloading a zip file. By clicking download zip file, it will automatically save on the desktop or in the download file. After that, open the Virtualtourist-master folder and click on the project4.xcodeproj to see the full project or project4 folder to see the project related files
+
+* Please navigate to the following URL: https://github.com/MohsinaRahman/Virtualtourist
+
+* Click on the green button labeled Clone or Download
+
+* Choose the download zip option
+
+* Unzip the downloaded zip file.
+
+* Navigate inside the unzipped folder.
+
+* Click on the file labeled Virtualtourist.xcodeProject
+
+* If a warning dialog appears, click on Open Anyway
+
+* Click on the project 4 project
+
+* Simultaneously press Command + B to run
+
