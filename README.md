@@ -2,7 +2,7 @@
 Built an app that gives the users the ability to store and retrieve location data/pictures/site information from popular pages. The stored data can be retrieved even without internet connection. For example, Flickr was used to download and store images based on a dropped pin location 
 # App functionalities
 ### MapViewController
-a user can drop pins around the world. As soon as a pin is dropped photo data for the pin location is fetched from Flickr. The actual photo downloads occur in the CollectionViewController. User can also select the pic as well as delete the pin
+A user can drop pins around the world. As soon as a pin is dropped photo data for the pin location is fetched from Flickr. The actual photo downloads occur in the CollectionViewController. A user can also select the pic as well as delete the pin
 
 ![alt text](https://github.com/MohsinaRahman/Virtualtourist/blob/master/mapview_page.png "Mapview Page")
 
@@ -13,7 +13,7 @@ a user can drop pins around the world. As soon as a pin is dropped photo data fo
 ![alt text](https://github.com/MohsinaRahman/Virtualtourist/blob/master/pindeleted_page.png "Pindeleted Page")
 
 ### CollectionViewController
-User can download photos and edit an album for a location. Users can also see the new collection or delete photos from existing albums
+A user can download photos and edit an album for a location. Users can also see the new collection or delete photos from existing albums
 
 
 ![alt text](https://github.com/MohsinaRahman/Virtualtourist/blob/master/loaded_page.png "Loaded Page")
